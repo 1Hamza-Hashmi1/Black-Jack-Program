@@ -1,12 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package coe318.lab5;
-/**
- *
- * @author Hamza Hashmi
- */
 public class Card implements Comparable {
     //Symbolic constants
 
